@@ -81,7 +81,7 @@ function tapLove(id) {
   if (loveTaps.size === 4) {
     Swal.fire({
       title: 'Đủ 4 love rồi nè!',
-      text: 'Sẵn sàng nhận quà chưa? 💖',
+      text: 'Sẵn sàng nhận quà chưa? 💖 💌',
       timer: 1500,
       showConfirmButton: false,
       background: '#fffbe7',
