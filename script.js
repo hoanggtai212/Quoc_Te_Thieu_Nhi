@@ -32,7 +32,7 @@ typeWriterEffect = (text, elementId, callback) => {
   }
 
   let i = 0;
-  const speed = 50;
+  const speed = 200;
   element.textContent = '';
 
   const type = () => {
