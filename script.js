@@ -98,7 +98,7 @@ function tapLove(id) {
         () => {
           const fromTag = document.createElement("div");
           fromTag.id = 'fromTag';
-          fromTag.textContent = "From: Việt Anh";
+          fromTag.textContent = "From: Ah Tài Kun Ngầu";
           fromTag.style.marginTop = "20px";
           fromTag.style.opacity = "0";
           fromTag.style.transition = "opacity 1s ease";
@@ -115,7 +115,7 @@ function tapLove(id) {
 
 async function inipesan() {
   const { value: typedName } = await Swal.fire({
-    title: 'Nhập Tên Của Bé Iuu đi',
+    title: 'Nhập Tên Của EM điii',
     input: 'text',
     inputValue: '',
     allowOutsideClick: false,
